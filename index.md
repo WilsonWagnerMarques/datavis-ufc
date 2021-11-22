@@ -11,7 +11,7 @@
 [index09.html](basic/index09.html)<br>
 [index10.html](basic/index10.html)<br>
 
-https://observablehq.com/embed/@wilsonwagnermarques/vega-lite-api-exercicios?cell=*
+[Atividade Vega-Lite](https://observablehq.com/embed/@wilsonwagnermarques/vega-lite-api-exercicios?cell=*)<br>
 
 ---
 
