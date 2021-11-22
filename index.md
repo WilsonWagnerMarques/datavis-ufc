@@ -11,6 +11,8 @@
 [index09.html](basic/index09.html)<br>
 [index10.html](basic/index10.html)<br>
 
+## Aula do dia 23/11/2018
+
 [Atividade Vega-Lite](https://observablehq.com/embed/@wilsonwagnermarques/vega-lite-api-exercicios?cell=*)<br>
 
 ---
