@@ -11,6 +11,8 @@
 [index09.html](basic/index09.html)<br>
 [index10.html](basic/index10.html)<br>
 
+https://observablehq.com/embed/@wilsonwagnermarques/vega-lite-api-exercicios?cell=*
+
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
